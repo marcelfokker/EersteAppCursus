@@ -19,6 +19,9 @@ class ViewController: UIViewController {
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
+        
+        print("Tweede print statement toegevoegd in tweede branch")
+        
         // Dispose of any resources that can be recreated.
     }
 
