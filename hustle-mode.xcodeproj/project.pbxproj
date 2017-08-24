@@ -22,6 +22,7 @@
 		D98C9BA71F4F570F00F454CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D98C9BAA1F4F570F00F454CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D98C9BAC1F4F570F00F454CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D98C9BB21F4F580100F454CC /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		D98C9B9F1F4F570F00F454CC /* hustle-mode */ = {
 			isa = PBXGroup;
 			children = (
+				D98C9BB21F4F580100F454CC /* hustle-on.wav */,
 				D98C9BA01F4F570F00F454CC /* AppDelegate.swift */,
 				D98C9BA21F4F570F00F454CC /* ViewController.swift */,
 				D98C9BA41F4F570F00F454CC /* Main.storyboard */,
