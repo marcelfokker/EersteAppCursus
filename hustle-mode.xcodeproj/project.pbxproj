@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D93BA15D1F50BE21009AAFE7 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = D98C9BB21F4F580100F454CC /* hustle-on.wav */; };
 		D98C9BA11F4F570F00F454CC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D98C9BA01F4F570F00F454CC /* AppDelegate.swift */; };
 		D98C9BA31F4F570F00F454CC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D98C9BA21F4F570F00F454CC /* ViewController.swift */; };
 		D98C9BA61F4F570F00F454CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D98C9BA41F4F570F00F454CC /* Main.storyboard */; };
@@ -124,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D93BA15D1F50BE21009AAFE7 /* hustle-on.wav in Resources */,
 				D98C9BAB1F4F570F00F454CC /* LaunchScreen.storyboard in Resources */,
 				D98C9BA81F4F570F00F454CC /* Assets.xcassets in Resources */,
 				D98C9BA61F4F570F00F454CC /* Main.storyboard in Resources */,
